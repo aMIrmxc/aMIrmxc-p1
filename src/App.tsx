@@ -4,12 +4,12 @@ export default function App() {
       <div className="scale-on-hover">
         <img src="/amirmxc.jpg" alt="logo" className="logo animate-float" />
       </div>
-       
-        <h1>I'm aMIrmxc</h1>
-        <p>
-           A front-end developer with a passion for creating beautiful and
-          functional web applications.
-        </p>
+
+      <h1>Hi. I'm aMIrmxc </h1>
+      <p>
+        A front-end developer with a passion for creating beautiful and
+        functional web applications.
+      </p>
 
       <div className="social-links">
         <a
@@ -26,7 +26,6 @@ export default function App() {
         >
           LinkedIn
         </a>
-        <a href="amirmxc@gmail.com">Email</a>
 
         <a
           href="https://t.me/Amirmxc"
@@ -35,6 +34,7 @@ export default function App() {
         >
           Telegram
         </a>
+        <a href="mailto:amirmxc@gmail.com">Email</a>
       </div>
     </div>
   );

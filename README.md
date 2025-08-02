@@ -48,7 +48,7 @@ Found a bug? Have a suggestion? Feel free to:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-## 📬 Let's Connect!
+## 📬 Let's Connect! 
 
 - [GitHub](https://github.com/aMIrmxc) - Check out my code adventures
 - [LinkedIn](https://linkedin.com/in/amirmxc/) - Professional network
