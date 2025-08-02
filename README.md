@@ -1,11 +1,8 @@
 # 🚀 aMIrmxc's Portfolio - Where Code Meets Creativity
 
-Welcome to my interactive portfolio! This isn't just another developer portfolio - it's a showcase of my passion for creating beautiful, functional web experiences with a touch of personality.
-
-<!-- ![Portfolio Screenshot](/public/amirmxc2.png) -->
-
 <div align="center">
   <img src="/public/amirmxc2.png" alt="Portfolio Screenshot" width="300"/>
+  <p>Welcome to my interactive portfolio! This isn't just another developer portfolio - it's a showcase of my passion for creating beautiful, functional web experiences with a touch of personality.</p>
 </div>
 
 ## ✨ Features That Pop
