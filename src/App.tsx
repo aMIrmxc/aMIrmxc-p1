@@ -5,7 +5,7 @@ export default function App() {
         <img src="/amirmxc.jpg" alt="logo" className="logo animate-float" />
       </div>
        
-        <h1>Front-End Developer</h1>
+        <h1>I'm aMIrmxc</h1>
         <p>
            A front-end developer with a passion for creating beautiful and
           functional web applications.
@@ -26,7 +26,7 @@ export default function App() {
         >
           LinkedIn
         </a>
-        <a href="mailto:your.email@example.com">Email</a>
+        <a href="amirmxc@gmail.com">Email</a>
 
         <a
           href="https://t.me/Amirmxc"
